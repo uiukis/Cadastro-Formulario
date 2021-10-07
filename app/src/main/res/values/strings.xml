@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Cadastro</string>
+    <string name="txt_titulo">Cadastro de Pessoas</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_cidade">Cidade</string>
+
+    <string name="btn_cadastrar"></string>
+
+    <string-array name="lista_nome">
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+    </string-array>
+
+    <string-array name="lista_cidade">
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+        <item>Lorem Ipsu</item>
+    </string-array>
+</resources>
